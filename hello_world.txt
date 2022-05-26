@@ -1,7 +1,4 @@
 yea I really dont know what im doing
 Im editing this again just try to this out on my own without instruction.
 third edit just to try something.
-trying a simple command
-another attempt
-ughhhhh
-nnnnn
+trying to use git command tes test
